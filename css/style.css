@@ -1,0 +1,46 @@
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body {
+	font-family: helvetica;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: euclidCircularB,Arial,sans-serif;
+	font-weight: bold;
+}
+
+h1{
+	margin-top: 0px;
+	margin-left: 10px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.banner h1{
+	font-size: 50px;
+	color: #2EB875;	
+	margin-left: 0px;
+	margin-top: -50px;
+}
+
+.banner h2{
+	width: 900px;
+	margin-left: 10px;
+	margin-bottom: 40px;
+}
+
+.btn-grey {
+	margin-left: 10px;
+	color: #2EB875;
+}
+
+.card h3{
+	color: #2EB875;
+}
